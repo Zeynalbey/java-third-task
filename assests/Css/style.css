@@ -1,6 +1,8 @@
-#divi{
-    background-color: black;
-    height: 200px;
-    width: 200px;
-    border-radius: 100%;
+.sec{
+    display: block;
+    padding-top: 50px;
+}
+
+.clas{
+    padding: 50px;
 }
